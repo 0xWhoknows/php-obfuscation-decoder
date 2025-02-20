@@ -2,6 +2,8 @@ import base64
 import zlib
 import re
 
+__author__ = "Who Knows"
+
 class PhpObfuscationDecoder:
     def __init__(self, encoded_str):
         self.encoded_str = encoded_str
