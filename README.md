@@ -20,7 +20,7 @@ This Python script decodes obfuscated PHP code that has been encoded using Base6
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/yourusername/php-obfuscation-decoder.git
+git clone https://github.com/0xWhoknows/php-obfuscation-decoder.git
 cd php-obfuscation-decoder
 ```
 
